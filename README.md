@@ -16,12 +16,12 @@ my@pc:~$ git clone https://github.com/Slowpoke079/cute_url_checker.git
 
 - filter url file "file" and print all output to terminal:
 ```console
-my@pc:~$ cat file python3 cute_url_checker.py
+my@pc:~$ cat file | python3 cute_url_checker.py
 ```
 
 - filter url file "file" and print all output to output.txt:
 ```console
-my@pc:~$ cat file python3 cute_url_checker.py > output.txt
+my@pc:~$ cat file | python3 cute_url_checker.py > output.txt
 ```
 
 - Note: "file" should contain only http:// or https:// links. otherwise the links will be discarded by the filtering process.
