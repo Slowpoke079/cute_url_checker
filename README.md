@@ -2,7 +2,7 @@
   <br>
   <a href=""><img src="https://github.com/Slowpoke079/cute_url_checker/blob/master/image.PNG" alt="" width="308px;"></a>
   <br>
-  Slowpoke079 - cute_url_checker
+  cute_url_checker.py
   <br>
 </h1>
 A super simple yet effective webapp url HTTP response code checker to see what urls are alive. Quickly filters out dead urls from an url list for you.
