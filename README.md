@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://github.com/Slowpoke079/cute_url_checker/blob/master/image.PNG" alt="" width="800px;"></a>
+  <a href=""><img src="https://github.com/Slowpoke079/cute_url_checker/blob/master/image.PNG" alt="" width="308px;"></a>
   <br>
   Slowpoke079 - cute_url_checker
   <br>
